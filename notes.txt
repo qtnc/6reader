@@ -1,0 +1,5 @@
+DAISY spec
+https://daisy.org/activities/standards/daisy/daisy-3/z39-86-2005-r2012-specifications-for-the-digital-talking-book/
+
+Tidy example:
+http://api.html-tidy.org/tidy/tidylib_api_5.6.0/libtidy_04.html
