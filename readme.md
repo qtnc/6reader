@@ -1,7 +1,7 @@
 # 6reader
 6reader is an application to read epub and epub3 books in a very simple user interface, fully accessible to screen readers.
 
-# Features
+## Features
 
 - Read books in a simple web view
 - Simple and quick access to table of contents, spine, index and resource list if the book has them
@@ -16,7 +16,7 @@
 - HTML
 - Plain text
 
-# History
+## History
 To read books on mobile phone, I can recommand the excellent VoiceDream Reader.
 However, in documentations, scientific, school, history, cooking or whatever other book that isn't fiction, reading may not be linear: you need to bookmark, jump ahead, come back, read again, lookup references, etc.
 IN all these cases, a mobile phone isn't always the best to be efficient. A good old computer is much better.
@@ -32,13 +32,13 @@ There come 6reader.
 The idea to add scripting capabilities using XQuilla come from Mailtoloco (https://www.stsolution.org/).
 as well as Jaws ResearchIt.
 
-# Dependencies
+## Dependencies
 6reader needs the following dependencies in order to be compiled:
 
 - wxWidgets 3.1.3+
 - CURL with HTTPS support
 - XQuilla
 
-# Download
+## Download
 Latest download can be found here
 http://vrac.quentinc.net/6reader.zip
